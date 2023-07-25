@@ -1,0 +1,4 @@
+tables:
+    - parent
+    - formateur
+    - matier
